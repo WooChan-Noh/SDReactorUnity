@@ -11,7 +11,7 @@ If you use cloud server, Please check **Auotomatic1111 Web UI API Documentation*
 ### Need list to use this project in your custom scene
 1. Stable Diffusion(cloud server or local) URL and install extension "Reactor"
 2. Setting your SD API mode(check webUI) 
-3. Setting file_(Assets/Settings/)_
+3. Setting file _(Assets/Settings/)_
 4. Scripts folder
 5. Your custom album folder
 > Setting file and Scripts(except Reactor scripts) are same with **Original** project
