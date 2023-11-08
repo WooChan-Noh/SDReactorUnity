@@ -19,7 +19,7 @@ If you use cloud server, Please check **Auotomatic1111 Web UI API Documentation*
 
 ### How to use in your custom scene 
 1. Type your SD URL in setting file
-2. Make configuration GameObject and connect SD Configuration Script : This object load your SD Model and Sampler (Click List Models button in inspector)
+2. Make configuration GameObject and connect SD Configuration Script   This object load your SD Model and Sampler (Click List Models button in inspector)
 3. Make Image object
 4. Add script : SD t2i or SD i2i or SD Reactor
 5. Use Editor Mode or Play Mode
@@ -27,12 +27,12 @@ If you use cloud server, Please check **Auotomatic1111 Web UI API Documentation*
 
 ### How to use Reactor
 1. Add your sorce iamge(use only face) and target image(result)
-2. Type Path
+2. Type Images Path
 ---
 
->source
++ source
 ![source](https://github.com/WooChan-Noh/SDReactorUnity/assets/103042258/2ea3ff9f-220b-4f8a-9690-01a662539aee)
->target
++ target
 ![target](https://github.com/WooChan-Noh/SDReactorUnity/assets/103042258/40b9ea93-7fef-4f03-963e-546e71130fe7)
->result
++ result
 ![2](https://github.com/WooChan-Noh/SDReactorUnity/assets/103042258/22983f1b-eae9-4afd-bbad-37513e36b500)
