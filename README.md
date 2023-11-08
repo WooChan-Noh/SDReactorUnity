@@ -2,7 +2,7 @@
 Use Stable Diffusion in Unity (Use Extensions "Reactor")
 
 
-**Original Project** : https://github.com/dobrado76/Stable-Diffusion-Unity-Integration
+**Original Project** : https://github.com/dobrado76/Stable-Diffusion-Unity-Integration   
 I only made Reactor Scripts and Setting
 
 
