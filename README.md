@@ -6,7 +6,7 @@ Use Stable Diffusion in Unity (Use Extensions "Reactor")
 I only made Reactor Scripts and Setting
 
 
-If you use cloud server, Please check **Auotomatic1111 Web UI API Documentation** and **Reactor API Documentation** and **Original Project Page**
+If you use cloud server, Please check _**Auotomatic1111 Web UI API Documentation**_ and _**Reactor API Documentation**_ and _**Original Project Page**_
 
 ### Need list to use this project in your custom scene
 1. Stable Diffusion(cloud server or local) URL and install extension "Reactor"
@@ -19,7 +19,7 @@ If you use cloud server, Please check **Auotomatic1111 Web UI API Documentation*
 
 ### How to use in your custom scene 
 1. Type your SD URL in setting file
-2. Make configuration GameObject and connect SD Configuration Script   This object load your SD Model and Sampler (Click List Models button in inspector)
+2. Make configuration GameObject and connect SD Configuration Script : This object load your SD Model and Sampler (Click List Models button in inspector)
 3. Make Image object
 4. Add script : SD t2i or SD i2i or SD Reactor
 5. Use Editor Mode or Play Mode
