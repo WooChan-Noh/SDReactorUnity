@@ -24,6 +24,8 @@ If you use cloud server, Please check _**Auotomatic1111 Web UI API Documentation
 4. Add script : SD t2i or SD i2i or SD Reactor
 5. Use Editor Mode or Play Mode
 
+#### Known Issue
+1. In **SDSetrings.cs**, You must modify  ```public string face_restorer = "1"``` to ```public string face_restorer = "CodeFormer"```
 
 ### How to use Reactor
 1. Add your sorce iamge(use only face) and target image(result)
