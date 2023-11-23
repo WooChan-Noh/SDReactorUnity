@@ -22,7 +22,8 @@ Use Stable Diffusion in Unity (Use Extensions **Reactor**)
 2. Type images path in script
 > Check out the **Reacotor git page** for good results
 ## Known Issue
-1. In **SDSetrings.cs**, You must modify  ```public string face_restorer = "1"``` to ```public string face_restorer = "CodeFormer"```  
+1. In **SDSetrings.cs**, You must modify  ```public string face_restorer = "1"``` to ```public string face_restorer = "CodeFormer"```
+2. Communication is **NOT** Async. `HTTPWebRequest` should probably be replaced with `UnityWebRequest` (in StableDiffusionReactor, t2i, i2i.cs)
 ***
 
 + Source image(left) and Target image(right)    
