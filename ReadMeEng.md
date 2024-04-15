@@ -18,7 +18,7 @@ Use Stable Diffusion in Unity (Use Extensions **Reactor**)
 3. Use Editor Mode or Play Mode
 
 ## How to use Reactor
-1. Add your sorce iamge(use only face) and target image(result) in Project
+1. Add your sorce iamge(use only face) and target image(result) in this Unity Project
 2. Type images path in script
 > Check out the **Reacotor git page** for good results
 ## Known Issue
