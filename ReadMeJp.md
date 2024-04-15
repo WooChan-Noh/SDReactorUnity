@@ -23,7 +23,7 @@ UnityでStable Diffusionを使用します。（extension : **リアクタ**）
 ## How to use Reactor
 1. ソースイメージ(顔のみ使用)とターゲットイメージ(背景イメージ)をUnityプロジェクトに追加します。
 2. SD Reactorスクリプトがあるインスペクターで追加したイメージのパスを入力します。
-> **Reacotorのgitページ**で使い方を参考にすると良い結果が出せます
+> この時写真の品質に関係なく結果が変わる場合があるのでReacotorのgitページで使い方を参照することをお勧めします。
 
 
 ## Known Issue
