@@ -23,7 +23,7 @@
 ## How to use Reactor
 1. 원본 이미지(_얼굴만 사용_)와 타겟 이미지(_결과물이 될 배경 이미지_)를 유니티 프로젝트에 추가합니다.
 2. SD Reactor 스크립트 인스펙터에서 추가한 파일의 경로를 입력합니다.
-> **Reacotor git 페이지**에서 사용법을 참고하면 좋은 결과물을 낼 수 있습니다.
+> **Reacotor git 페이지**에서 사용법을 확인하고 사용하는 것을 권장합니다. 사용 방법에 따라 결과물의 품질이 크게 달라집니다.
 ## Known Issue
 1. **SDSetrings.cs**에서,  ```public string face_restorer = "1"``` 라고 작성되어 있는 부분을 ```public string face_restorer = "CodeFormer"```로 변경해야 합니다.
 2. 원본 프로젝트는 비동기방식으로 진행되지 않습니다. `HTTPWebRequest` 로 작성되어 있는 부분을 `UnityWebRequest` 로 변경해야 합니다. (StableDiffusionReactor, t2i, i2i.cs)
