@@ -1,5 +1,5 @@
-[Read Me - English](https://github.com/WooChan-Noh/SDReactorUnity/blob/main/ReadMeEng.md)     
-[Read Me - Japanese](https://github.com/WooChan-Noh/SDReactorUnity/blob/main/ReadMeJp.md)
+[ReadMe - English](https://github.com/WooChan-Noh/SDReactorUnity/blob/main/ReadMeEng.md)     
+[ReadMe - Japanese](https://github.com/WooChan-Noh/SDReactorUnity/blob/main/ReadMeJp.md)
 # SDReactorUnity
 유니티에서 스테이블 디퓨전의 extension - **Reactor**를 활용하는 프로젝트입니다. 
 ## Overview
