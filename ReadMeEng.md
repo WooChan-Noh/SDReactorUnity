@@ -19,7 +19,7 @@ Use Stable Diffusion in Unity (Use Extensions **Reactor**)
 
 ## How to use Reactor
 1. Add your sorce iamge(use only face) and target image(result) in this Unity Project
-2. Type images path in script
+2. Type images path in SD Rector Object's inspector
 > Check out the **Reacotor git page** for good results
 ## Known Issue
 1. In **SDSetrings.cs**, You must modify  ```public string face_restorer = "1"``` to ```public string face_restorer = "CodeFormer"```
